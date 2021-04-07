@@ -8,7 +8,7 @@ public class Ejercicio1 {
 		// TODO Auto-generated method stub
 		String nombre = "Juan Camilo";
 		double x = Math.round(( Math.random())*100.0)/100.0;
-		static double dolar = 3636.50; //variable constante
+		final double dolar = 3636.50; //variable constante
 		float pi = (float)Math.PI;
 		double euler = Math.E;
 		        
